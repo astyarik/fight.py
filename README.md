@@ -1,4 +1,4 @@
-# fight
+# fight.py
 
 Простая игра, где тебе надо победить врага
 В твоих силах доступны такие действия, как:
@@ -11,5 +11,5 @@
 
 ## Инструкция:
 1. ```git clone https://github.com/astyarik/fight.py.git```
-2. ```python game.py```
+2. ```python fight.py```
 3. Удачной игры!
